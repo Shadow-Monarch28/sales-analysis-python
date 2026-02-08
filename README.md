@@ -1,10 +1,22 @@
 # Sales Analytics & Exploratory Data Analysis (EDA)
 
+## 🧠 Business Objective
+Analyze sales data to identify revenue drivers, profitability patterns, and potential risk areas to support business decision-making.
+
+
 ## 📌 Project Overview
 This project is an **end-to-end Sales Analytics and Exploratory Data Analysis (EDA)** exercise designed to reflect **real Data Analyst work**.  
 It covers data preparation, feature engineering, statistical analysis, visualization, and business insight generation.
 
 The project demonstrates how raw sales data can be transformed into **actionable business insights**.
+
+# Section Headers:
+1. Data Loading
+2. Data Cleaning
+3. Feature Engineering
+4. EDA
+5. Insights
+
 
 ---
 
@@ -31,7 +43,7 @@ Derived fields:
 - `revenue`
 - `profit_margin`
 
-Cleaned data is saved as:
+Cleaned data is saved as: **sales_eda_project.py**
 
 ---
 
@@ -61,8 +73,11 @@ Cleaned data is saved as:
 
 ---
 
-## 📊 Key Business Insight
-> **The West region generates the highest total revenue, while the Furniture category shows a strong average profit margin.**
+## 📌 Insights & Recommendations
+
+- The West region leads in revenue generation and should be prioritized for growth.
+- Furniture shows strong profit margins, suggesting pricing or cost advantages.
+- Certain low-revenue outliers may indicate underperforming products or data issues.
 
 ---
 
